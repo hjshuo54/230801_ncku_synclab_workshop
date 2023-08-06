@@ -1,0 +1,37 @@
+// hrsdk_control
+if (removehead[0].Contains("Tool:HomePos"))
+                        {
+                            HRobot.set_tool_number(Robot_ID, HomeTool);
+                        }
+
+
+                        else if (removehead[0].Contains("axis:"))
+                        {
+                            //HRobot.set_tool_number(Robot_ID, ProgramTool);
+                            string[] axis_ = removehead[0].Split(new string[] { ":" }, StringSplitOptions.RemoveEmptyEntries);
+                            double[] axis_dou = axis_[1].Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries)
+                                 .Select((num) => Double.Parse(num)).ToArray();
+                            HRobot.ptp_axis(Robot_ID, 1, axis_dou);
+                        }
+                        else if (removehead[0].Contains("ptp:"))
+                        {
+                            HRobot.set_tool_number(Robot_ID, ProgramTool);
+                            string[] ptp_ = removehead[0].Split(new string[] { ":" }, StringSplitOptions.RemoveEmptyEntries);
+                            double[] ptp_dou = ptp_[1].Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries)
+                                 .Select((num) => Double.Parse(num)).ToArray();
+                            HRobot.ptp_pos(Robot_ID, 1, ptp_dou);
+                        }
+                        else if (removehead[0].Contains("lin:"))
+                        {
+                            HRobot.set_tool_number(Robot_ID, ProgramTool);
+                            string[] lin_ = removehead[0].Split(new string[] { ":" }, StringSplitOptions.RemoveEmptyEntries);
+                            double[] lin_dou = lin_[1].Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries)
+                                 .Select((num) => Double.Parse(num)).ToArray();
+                            HRobot.lin_pos(Robot_ID, 1, 15, lin_dou);
+                        }
+                        else if (removehead[0].Contains("set_DO"))
+                        {
+                            string[] do_ = removehead[0].Split(new string[] { ":" }, StringSplitOptions.RemoveEmptyEntries);
+                            string[] do_set = do_[1].Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries);
+                            HRobot.set_digital_output(Robot_ID, int.Parse(do_set[0]), bool.Parse(do_set[1]));
+                        }

@@ -1,0 +1,29 @@
+//preview_axis_movement
+if (path != "")
+        {
+            string[] Robot_info = path.Split(new string[] { "!" }, StringSplitOptions.RemoveEmptyEntries);
+
+            robotSim_double = robotSim_double + (previewspeed * Time.deltaTime);
+
+            if (Robot_info.Length > 0)
+            {
+                if (Convert.ToInt32(robotSim_double) >= Robot_info.Length-1)
+                {
+                    robotSim_double = 0;
+                }
+                string[] Robot_Axis = Robot_info[Convert.ToInt32(robotSim_double)].Split(new string[] { "?" }, StringSplitOptions.RemoveEmptyEntries);
+                a1 = float.Parse(Robot_Axis[0]);
+                a2 = float.Parse(Robot_Axis[1]);
+                a3 = float.Parse(Robot_Axis[2]);
+                a4 = float.Parse(Robot_Axis[3]);
+                a5 = float.Parse(Robot_Axis[4]);
+                a6 = float.Parse(Robot_Axis[5]);
+
+                A1_.transform.localRotation = Quaternion.Euler(0, a1, 0);
+                A2_.transform.localRotation = Quaternion.Euler(a2, 0, 0);
+                A3_.transform.localRotation = Quaternion.Euler(a3, 0, 0);
+                A4_.transform.localRotation = Quaternion.Euler(0, 0, a4);
+                A5_.transform.localRotation = Quaternion.Euler(a5, 0, 0);
+                A6_.transform.localRotation = Quaternion.Euler(0, 0, a6);
+            }
+        }

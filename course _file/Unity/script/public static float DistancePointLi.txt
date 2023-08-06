@@ -1,0 +1,12 @@
+public static float DistancePointLine(Vector3 point, Vector3 lineStart, Vector3 lineEnd)
+    {
+        Vector3 rhs = point - lineStart;
+        Vector3 vector3 = lineEnd - lineStart;
+        float magnitude = vector3.magnitude;
+        Vector3 lhs = vector3;
+        if ((double)magnitude > 9.99999997475243E-07) //9.99999997475243E-07
+            lhs /= magnitude;
+        float num = Mathf.Clamp(Vector3.Dot(lhs, rhs), 0.0f, magnitude);
+        Vector3 v3 = lineStart + lhs * num;
+        return Vector3.Magnitude(v3 - point);
+    }

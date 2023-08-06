@@ -1,0 +1,60 @@
+//send
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class send : MonoBehaviour
+{
+    private string cube_info;
+
+
+    public udp_send udp_Send;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    public void push_button()
+    {
+        //Cube
+        cube_info = "";
+        GameObject[] cube_tag = GameObject.FindGameObjectsWithTag("C_Cube_Objects_tag");
+        if (cube_tag.Length > 0)
+        {
+            foreach (GameObject enemy in cube_tag)
+            {
+                string p_ = YtoZ(enemy.transform.position).ToString();
+                string r_y = enemy.transform.eulerAngles.z.ToString();
+                string r_z = enemy.transform.eulerAngles.y.ToString();
+                string s_ = YtoZ(enemy.transform.localScale).ToString();
+
+                cube_info = cube_info + p_ + "?" + r_y + "?" + r_z + "?" + s_ + "!";
+            }
+        }
+
+
+
+
+        string send_data = cube_info;
+        udp_Send.SendUDPData(send_data);
+
+
+
+    }
+
+
+    public Vector3 YtoZ(Vector3 vec)
+    {
+        Vector3 a = new Vector3(vec.x, vec.z, vec.y) * 1000;
+        return a;
+    }
+
+
+}

@@ -1,0 +1,54 @@
+public void FourPointToCube(Vector3 PointA, Vector3 PointB, Vector3 PointC, Vector3 PointD)
+    {
+        float boxhigh_ = (PointA.y + PointB.y + PointC.y) / 3;
+        PointA = new Vector3(PointA.x, boxhigh_, PointA.z);
+        PointB = new Vector3(PointB.x, boxhigh_, PointB.z);
+        PointC = new Vector3(PointC.x, boxhigh_, PointC.z);
+
+        GameObject cubeobject = GameObject.CreatePrimitive(PrimitiveType.Plane);
+        Vector3 between = (PointB - PointA);
+        Vector3 center = (PointB + PointA) / 2;
+        cubeobject.GetComponent<Transform>().rotation = Quaternion.LookRotation(between, Vector3.forward);
+        cubeobject.GetComponent<Renderer>().enabled = true;
+        cubeobject.transform.position = new Vector3(center.x, boxhigh_ / 2, center.z);
+
+        float dis_ = DistancePointLine(PointC,PointA,PointB);
+
+        Vector3 ballpos_1 = PointA + ((cubeobject.transform.up.normalized) * dis_);
+        Vector3 ballpos_2 = PointA + ((cubeobject.transform.up.normalized) * dis_*-1);
+        Vector3 ballpos_3 = PointB + ((cubeobject.transform.up.normalized) * dis_);
+        Vector3 ballpos_4 = PointB + ((cubeobject.transform.up.normalized) * dis_*-1);
+        double ballpos_one = (PointC - ballpos_1).magnitude;
+        double ballpos_two = (PointC - ballpos_2).magnitude;
+
+        if (ballpos_one > ballpos_two)
+        {
+            Vector3 center_ = (PointA + PointB + ballpos_2 + ballpos_4) / 4;
+            float newhight = Math.Abs(PointD.y + center_.y)/2;
+            float newscale_y = Math.Abs(PointD.y - center_.y);
+            GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            cube.transform.position = new Vector3(center_.x, newhight, center_.z);
+            cube.transform.localScale = new Vector3(newscale_y, between.magnitude, (Math.Abs((ballpos_2 - PointA).magnitude)));
+            cube.GetComponent<Transform>().rotation = Quaternion.LookRotation(between, Vector3.forward);
+            cube.GetComponent<Transform>().Rotate(90, 0, 0);
+            cube.GetComponent<Renderer>().enabled = true;
+            cube.transform.parent = GameObject.Find("C_Cube_Object").transform;
+            cube.gameObject.tag = "C_Cube_Objects_tag";
+        }
+        else 
+        {
+            Vector3 center_ = (PointA + PointB + ballpos_1 + ballpos_3) / 4;
+            float newhight = Math.Abs(PointD.y + center_.y) / 2;
+            float newscale_y = Math.Abs(PointD.y - center_.y);
+            GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            cube.transform.position = new Vector3(center_.x, newhight, center_.z);
+            cube.transform.localScale = new Vector3(newscale_y, between.magnitude, (Math.Abs((ballpos_1 - PointA).magnitude)));
+            cube.GetComponent<Transform>().rotation = Quaternion.LookRotation(between, Vector3.forward);
+            cube.GetComponent<Transform>().Rotate(90, 0, 0);
+            cube.GetComponent<Renderer>().enabled = true;
+            cube.transform.parent = GameObject.Find("C_Cube_Object").transform;
+            cube.gameObject.tag = "C_Cube_Objects_tag";
+        }
+        GameObject.DestroyImmediate(cubeobject);
+
+    }
