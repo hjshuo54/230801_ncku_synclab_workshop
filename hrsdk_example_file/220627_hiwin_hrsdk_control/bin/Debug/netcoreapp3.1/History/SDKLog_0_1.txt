@@ -1,0 +1,253 @@
+2023-8-4_18:53:50 1420 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+"HRSDK version" does not match "HRSS SDK version", some functions can't be used.
+2023-8-4_18:53:50 1420 1  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+2023-8-4_18:53:50 300 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_18:53:50 150 30  0 
+2023-8-4_18:53:50 200 28928 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_18:56:49 500 7  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_18:56:49 2002 1 64 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_18:58:38 500 7  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_18:58:38 2002 1 64 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_18:58:54 500 7  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_18:58:54 2002 1 64 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:0:34 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:0:46 4132 2 1  0 
+2023-8-4_19:0:52 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:0:52 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 57 56 46 48 50 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:5 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:5 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 57 56 46 48 50 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:22 4132 2 0  0 
+2023-8-4_19:1:24 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:24 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 51 46 48 50 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:27 500 8  0 
+2023-8-4_19:1:27 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 51 46 48 50 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:32 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:43 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:55 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:1:55 2001 1 10801 0 60949 16 31829 12 60876 1 62557 65535 46733 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:2:3 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:2:3 2011 1 15000 0 69 57 46 51 54 55 48 48 48 48 44 49 49 55 52 46 57 48 49 48 48 48 48 44 55 52 50 46 54 48 52 48 48 48 48 44 49 50 54 46 52 49 50 48 48 48 48 44 45 50 46 57 55 56 48 48 48 48 44 49 55 55 46 56 48 53 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:2:13 4132 2 1  0 
+2023-8-4_19:2:13 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:2:13 2011 1 15000 0 70 49 48 46 56 48 49 48 48 48 48 44 49 49 48 57 46 53 50 53 48 48 48 48 44 56 49 56 46 50 54 49 48 48 48 48 44 49 50 54 46 52 49 50 48 48 48 48 44 45 50 46 57 55 56 48 48 48 48 44 49 55 55 46 56 48 53 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2023-8-4_19:2:16 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:2:26 4132 2 0  0 
+2023-8-4_19:9:4 500 7  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:9:4 2002 1 64 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:11:58 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:11 4132 2 1  0 
+2023-8-4_19:12:14 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:14 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 46 51 55 54 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:26 500 8  0 
+2023-8-4_19:12:27 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 46 51 55 54 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:32 4132 2 0  0 
+2023-8-4_19:12:34 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:34 2011 1 15000 0 66 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 54 57 46 54 50 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:38 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:38 2011 1 15000 0 66 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 54 57 46 54 50 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:43 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:12:54 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:13:6 500 8  0 
+2023-8-4_19:13:6 2001 1 8568 9 49849 6 6062 13 45741 2 9579 0 22569 65534  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:13:19 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:13:19 2011 1 15000 0 70 53 57 56 46 53 53 56 48 48 48 48 44 52 54 48 46 53 51 49 48 48 48 48 44 55 53 57 46 53 54 55 48 48 48 48 44 49 55 54 46 56 49 51 48 48 48 48 44 57 46 53 55 57 48 48 48 48 44 45 49 48 56 46 53 48 50 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:13:22 4132 2 1  0 
+2023-8-4_19:13:24 500 8  0 
+2023-8-4_19:13:24 2011 1 15000 0 70 53 57 56 46 51 57 50 48 48 48 48 44 52 52 51 46 48 54 53 48 48 48 48 44 56 53 56 46 48 51 48 48 48 48 48 44 49 55 54 46 56 49 51 48 48 48 48 44 57 46 53 55 57 48 48 48 48 44 45 49 48 56 46 53 48 50 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:13:28 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:13:43 4132 2 0  0 
+2023-8-4_19:19:29 500 7  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:19:29 2002 1 64 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:21:51 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:11 4132 2 1  0 
+2023-8-4_19:22:19 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:19 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 50 48 53 46 51 49 54 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:29 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:29 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 50 48 53 46 51 49 54 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:34 4132 2 0  0 
+2023-8-4_19:22:38 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:38 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 50 57 48 46 51 49 54 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:45 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:45 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 50 57 48 46 51 49 54 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:22:52 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:2 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:15 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:15 2001 1 6113 2 1995 20 49 13 33163 1 24486 65535 43190 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:22 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:22 2011 1 15000 0 71 49 50 53 46 48 57 54 48 48 48 48 44 49 52 48 56 46 56 50 50 48 48 48 48 44 56 50 55 46 49 55 48 48 48 48 48 44 57 56 46 54 57 57 48 48 48 48 44 45 52 49 46 48 52 57 48 48 48 48 44 49 55 52 46 50 54 50 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:26 4132 2 1  0 
+2023-8-4_19:23:29 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:29 2011 1 15000 0 71 49 51 55 46 49 56 53 48 48 48 48 44 49 51 49 50 46 55 49 53 48 48 48 48 44 56 53 50 46 48 49 55 48 48 48 48 44 57 56 46 54 57 57 48 48 48 48 44 45 52 49 46 48 52 57 48 48 48 48 44 49 55 52 46 50 54 50 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:33 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2023-8-4_19:23:43 4132 2 0  0 
+2023-8-4_19:24:47 2042  0 
+2023-8-4_19:24:47 2046 0  0 
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 0000019D6DB215A8
+ShutdownAndColse socket= 0000019D6DB215B0
+ShutdownAndColse socket= 0000019D6DB215B8
+Close connection !
+192.168.1.203 0

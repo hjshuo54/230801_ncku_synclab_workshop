@@ -1,0 +1,526 @@
+2022-11-4_16:45:29 1420 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+"HRSDK version" does not match "HRSS SDK version", some functions can't be used.
+2022-11-4_16:45:29 1420 1  0 
+2022-11-4_16:45:29 300 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+2022-11-4_16:45:29 150 30  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:45:29 200 28928 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:45:54 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:1 4132 2 1  0 
+2022-11-4_16:46:2 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:2 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 52 57 46 50 56 53 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:14 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:14 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 52 57 46 50 56 53 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_16:46:18 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:19 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:19 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 54 52 46 50 56 53 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:21 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:21 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 54 52 46 50 56 53 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_16:46:26 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:31 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:39 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:46:39 2001 1 10446 65530 43391 15 42666 8 50082 0 12897 65535 41733 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:47:47 500 8  0 
+2022-11-4_16:47:47 2011 1 15000 0 72 45 51 53 57 46 54 52 52 48 48 48 48 44 49 49 48 55 46 56 57 57 48 48 48 48 44 53 49 51 46 55 55 51 48 48 48 48 44 53 48 46 48 56 50 48 48 48 48 44 45 53 50 46 54 51 56 48 48 48 48 44 49 55 50 46 56 48 53 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:48:2 4132 2 1  0 
+2022-11-4_16:48:3 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:48:3 2011 1 15000 0 72 45 51 56 50 46 55 54 57 48 48 48 48 44 49 48 50 54 46 52 51 49 48 48 48 48 44 53 54 54 46 57 53 52 48 48 48 48 44 53 48 46 48 56 50 48 48 48 48 44 45 53 50 46 54 51 56 48 48 48 48 44 49 55 50 46 56 48 53 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:48:6 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:48:15 4132 2 0  0 
+2022-11-4_16:49:0 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:9 4132 2 1  0 
+2022-11-4_16:49:9 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:10 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 55 46 51 54 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:22 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:22 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 55 46 51 54 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:27 4132 2 0  0 
+2022-11-4_16:49:28 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:28 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 55 50 46 51 54 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:31 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:31 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 55 50 46 51 54 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_16:49:35 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:41 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_16:49:46 500 8  0 
+2022-11-4_16:49:46 2001 1 28367 65530 7894 16 11452 8 51077 0 11563 65535 43051 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:49:53 500 8  0 
+2022-11-4_16:49:53 2011 1 15000 0 72 45 51 52 54 46 48 52 55 48 48 48 48 44 49 49 51 56 46 51 48 48 48 48 48 48 44 52 56 49 46 52 50 51 48 48 48 48 44 53 49 46 48 55 55 48 48 48 48 44 45 53 51 46 57 55 50 48 48 48 48 44 49 55 52 46 49 50 51 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:52:16 4132 2 1  0 
+2022-11-4_16:52:19 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:52:19 2011 1 15000 0 72 45 51 54 52 46 56 52 56 48 48 48 48 44 49 48 53 54 46 52 55 48 48 48 48 48 44 53 51 53 46 55 52 48 48 48 48 48 44 53 49 46 48 55 55 48 48 48 48 44 45 53 51 46 57 55 50 48 48 48 48 44 49 55 52 46 49 50 51 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:52:22 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:52:29 4132 2 0  0 
+2022-11-4_16:54:7 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:13 4132 2 1  0 
+2022-11-4_16:54:13 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:13 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 49 57 46 49 57 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:26 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:26 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 49 57 46 49 57 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:34 4132 2 0  0 
+2022-11-4_16:54:35 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:35 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 51 52 46 49 57 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:38 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:54:38 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 51 52 46 49 57 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:55:2 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_16:55:7 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:55:13 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:55:13 2001 1 10144 65533 9064 16 41571 8 54963 1 58990 0 64405 65533  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:55:19 500 8  0 
+2022-11-4_16:55:19 2011 1 15000 0 73 45 49 53 57 46 52 48 56 48 48 48 48 44 49 48 57 56 46 49 56 53 48 48 48 48 44 52 55 56 46 53 52 51 48 48 48 48 44 49 50 48 46 52 57 57 48 48 48 48 44 53 56 46 57 57 48 48 48 48 48 44 45 49 51 50 46 50 48 50 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:59:29 4132 2 1  0 
+2022-11-4_16:59:30 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_16:59:30 2011 1 15000 0 73 45 49 56 54 46 52 54 51 48 48 48 48 44 49 48 53 55 46 54 52 48 48 48 48 48 44 53 54 53 46 56 53 57 48 48 48 48 44 49 50 48 46 52 57 57 48 48 48 48 44 53 56 46 57 57 48 48 48 48 48 44 45 49 51 50 46 50 48 50 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_16:59:33 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_16:59:39 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:1:45 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:1:59 4132 2 1  0 
+2022-11-4_17:2:0 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:2:0 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 57 53 46 48 56 49 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:2:53 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:2:53 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 57 53 46 48 56 49 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:2:58 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:2:58 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:2:58 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 49 48 46 48 56 49 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:3:0 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:3:1 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 49 48 46 48 56 49 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:3:5 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:3:10 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:3:16 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:3:16 2001 1 12917 65535 6368 18 59510 9 27396 2 44481 0 11687 65534  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:3:23 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:3:23 2011 1 15000 0 72 45 53 48 46 52 54 50 48 48 48 48 44 49 50 54 48 46 50 54 50 48 48 48 48 44 53 56 50 46 51 56 48 48 48 48 48 44 49 53 56 46 52 54 56 48 48 48 48 44 52 52 46 52 56 49 48 48 48 48 44 45 49 49 57 46 51 56 52 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:7:13 4132 2 1  0 
+2022-11-4_17:7:15 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:7:15 2011 1 15000 0 72 45 53 50 46 54 49 56 48 48 48 48 44 49 49 56 54 46 48 49 54 48 48 48 48 44 54 52 57 46 51 51 52 48 48 48 48 44 49 53 56 46 52 54 56 48 48 48 48 44 52 52 46 52 56 49 48 48 48 48 44 45 49 49 57 46 51 56 52 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:7:18 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:7:23 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:21 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:39 4132 2 1  0 
+2022-11-4_17:9:40 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:40 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 48 46 52 57 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:9:52 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:52 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 48 46 52 57 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:9:56 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:57 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:57 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 54 53 46 52 57 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:59 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:9:59 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 54 53 46 52 57 57 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:10:3 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:10:8 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:10:15 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:10:15 2001 1 60101 65528 42047 15 44587 5 46275 2 1620 0 47986 65533  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:10:22 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:10:22 2011 1 15000 0 72 45 52 54 52 46 49 49 54 48 48 48 48 44 49 48 51 48 46 51 57 53 48 48 48 48 44 50 55 50 46 52 48 56 48 48 48 48 44 49 55 55 46 51 52 55 48 48 48 48 44 49 46 54 50 48 48 48 48 48 44 45 49 52 56 46 54 50 49 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:12:55 4132 2 1  0 
+2022-11-4_17:12:56 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:12:56 2011 1 15000 0 72 45 52 54 52 46 49 56 54 48 48 48 48 44 49 48 50 53 46 48 56 55 48 48 48 48 44 51 55 50 46 50 54 55 48 48 48 48 44 49 55 55 46 51 52 55 48 48 48 48 44 49 46 54 50 48 48 48 48 48 44 45 49 52 56 46 54 50 49 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:12:59 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:13:5 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:13:41 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:13:49 4132 2 1  0 
+2022-11-4_17:13:50 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:13:50 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 48 48 46 57 49 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:2 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:2 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 48 48 46 57 49 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:14:7 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:7 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:8 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 46 57 49 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:14:10 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:10 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 53 46 57 49 51 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:14:14 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:14:19 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:25 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:25 2001 1 22322 65531 24547 14 25099 6 60977 1 46172 65535 35137 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:14:31 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:14:31 2011 1 15000 0 73 45 51 49 51 46 48 48 51 48 48 48 48 44 49 48 49 51 46 52 55 50 48 48 48 48 44 51 52 56 46 55 52 49 48 48 48 48 44 49 50 54 46 53 49 51 48 48 48 48 44 45 49 57 46 51 54 51 48 48 48 48 44 49 54 54 46 50 48 57 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:18:16 4132 2 1  0 
+2022-11-4_17:18:17 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:18:17 2011 1 15000 0 72 45 51 48 53 46 51 53 55 48 48 48 48 44 57 52 50 46 48 53 49 48 48 48 48 44 52 49 56 46 51 49 53 48 48 48 48 44 49 50 54 46 53 49 51 48 48 48 48 44 45 49 57 46 51 54 51 48 48 48 48 44 49 54 54 46 50 48 57 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:18:19 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:18:26 4132 2 0  0 
+2022-11-4_17:20:34 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:2 4132 2 1  0 
+2022-11-4_17:21:3 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:3 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 56 57 46 53 52 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:14 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:14 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 56 57 46 53 52 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:21:18 4132 2 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:18 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:18 2011 1 15000 0 66 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 52 46 53 52 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:22 500 8  0 
+2022-11-4_17:21:22 2011 1 15000 0 66 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 52 46 53 52 52 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:27 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:21:55 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:22:1 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:22:1 2001 1 21072 65528 49873 14 30953 2 48161 1 63596 65535 48077 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:22:8 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:22:8 2011 1 15000 0 71 45 53 48 52 46 52 52 48 48 48 48 48 44 49 48 52 48 46 52 55 57 48 48 48 48 44 57 51 46 56 48 48 48 48 48 48 44 49 49 51 46 54 57 55 48 48 48 48 44 45 49 46 57 51 57 48 48 48 48 44 49 55 57 46 49 52 57 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:25:41 4132 2 1  0 
+2022-11-4_17:25:42 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:25:42 2011 1 15000 0 71 45 53 48 51 46 50 49 53 48 48 48 48 44 57 54 55 46 51 55 55 48 48 48 48 44 49 54 50 46 48 50 53 48 48 48 48 44 49 49 51 46 54 57 55 48 48 48 48 44 45 49 46 57 51 57 48 48 48 48 44 49 55 57 46 49 52 57 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:25:45 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:25:52 4132 2 0  0 
+2022-11-4_17:26:39 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:27:24 4132 2 1  0 
+2022-11-4_17:27:25 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:27:25 2011 1 15000 0 68 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 51 53 46 57 49 55 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:27:40 500 8  0 
+2022-11-4_17:27:40 2011 1 15000 0 68 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 49 51 53 46 57 49 55 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:27:45 4132 2 0  0 
+2022-11-4_17:27:45 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:27:45 2011 1 15000 0 67 57 49 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 53 48 46 57 49 55 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:27:48 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:27:48 2011 1 15000 0 67 55 51 48 46 55 56 53 48 48 48 48 44 54 53 55 46 56 57 48 48 48 48 48 44 45 53 48 46 57 49 55 48 48 48 48 44 57 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 57 48 46 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:27:52 2002 1 67 45 53 53 46 48 48 48 48 48 48 48 44 50 48 46 48 48 48 48 48 48 48 44 45 53 53 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 51 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:27:58 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+2022-11-4_17:28:3 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:28:3 2001 1 37229 65532 19070 17 63326 9 31416 2 50560 65535 9612 2  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:28:58 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:28:58 2011 1 15000 0 73 45 50 50 54 46 55 53 51 48 48 48 48 44 49 49 55 48 46 49 53 53 48 48 48 48 44 53 54 48 46 50 53 52 48 48 48 48 44 49 54 50 46 52 56 56 48 48 48 48 44 45 49 52 46 57 55 53 48 48 48 48 44 49 52 48 46 54 56 52 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:33:41 4132 2 1  0 
+2022-11-4_17:33:42 500 8  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:33:42 2011 1 15000 0 73 45 50 50 52 46 57 49 52 48 48 48 48 44 49 49 51 51 46 49 56 50 48 48 48 48 44 54 53 51 46 49 53 48 48 48 48 48 44 49 54 50 46 52 56 56 48 48 48 48 44 45 49 52 46 57 55 53 48 48 48 48 44 49 52 48 46 54 56 52 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:33:46 2002 1 66 48 46 48 48 48 48 48 48 48 44 52 53 46 48 48 48 48 48 48 48 44 45 51 48 46 48 48 48 48 48 48 48 44 48 46 48 48 48 48 48 48 48 44 45 54 48 46 48 48 48 48 48 48 48 44 49 56 48 46 48 48 48 48 48 48 48  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 30 fo 0000 coord 0 sz 31
+2022-11-4_17:33:52 4132 2 0  0 
+2022-11-4_17:37:47 2042  0 
+2022-11-4_17:37:47 2046 0  0 
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 000001D9B5778598
+FucSet can't recv, cmd 13 err 10053 rsp 3000 rlt 500
+FucSet can't recv, cmd 13 err 10053 rsp 3000 rlt 500FucSet rlt -1
+Command 13 disconnect Err code 3000
+ShutdownAndColse socket= 000001D9B57785A0
+ShutdownAndColse socket= 000001D9B57785A8
+Close connection !
+192.168.1.203 0

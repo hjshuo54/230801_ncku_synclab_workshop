@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "220627_hiwin_hrsdk_control/1.0.0": {
+        "runtime": {
+          "220627_hiwin_hrsdk_control.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "220627_hiwin_hrsdk_control/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
